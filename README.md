@@ -18,12 +18,12 @@ $ npm install tiptap-extension-imageplus
 ## Usage
 
 ```javascript
-import { CustomPasteHandler } from "tiptap-extension-imageplus";
-import { ImageMarkup } from "tiptap-extension-imageplus";
+import { pasteHandler } from "tiptap-extension-imageplus";
+import { imageMarkup } from "tiptap-extension-imageplus";
 import { EditorContent, useEditor } from '@tiptap/react';
 
 const editor = useEditor({
-  extensions: [PasteHandler, ImageMarkup],
+  extensions: [pasteHandler, imageMarkup],
   content: `<img src="https://source.unsplash.com/8xznAGy4HcY/800x400" />`,
 });
 ```
