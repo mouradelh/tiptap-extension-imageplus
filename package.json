@@ -1,6 +1,6 @@
 {
   "name": "tiptap-extension-imageplus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Enhanced image handling and annotation extension (MarkerJS2) for TipTap editor.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,7 +1,7 @@
 import Image from '@tiptap/extension-image';
 import * as markerjs2 from 'markerjs2';
 
-const ImageMarkup = Image.extend({
+const imageMarkup = Image.extend({
     addAttributes() {
         return {
             src: {
@@ -150,4 +150,4 @@ const ImageMarkup = Image.extend({
     },
 });
 
-export { ImageMarkup, ImageMarkup as default };
+export { imageMarkup as default };
