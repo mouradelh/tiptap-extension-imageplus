@@ -1,7 +1,7 @@
 import { Plugin } from 'prosemirror-state';
 import { Extension } from '@tiptap/core';
 
-const CustomPasteHandler = Extension.create({
+const pasteHandler = Extension.create({
   name: 'customPasteHandler',
 
   addProseMirrorPlugins() {
@@ -38,4 +38,4 @@ const CustomPasteHandler = Extension.create({
   },
 });
 
-export default CustomPasteHandler;
+export default pasteHandler;
