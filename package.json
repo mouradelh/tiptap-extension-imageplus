@@ -1,12 +1,12 @@
 {
   "name": "tiptap-extension-imageplus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enhanced image handling and annotation extension (MarkerJS2) for TipTap editor.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mourad El Harchaoui", 
-  "license": "GPL-3.0-only", 
+  "author": "Mourad El Harchaoui",
+  "license": "GPL-3.0-only",
   "keywords": [
     "tiptap",
     "extension",
@@ -21,14 +21,14 @@
     "markerjs2": "^2.32.1",
     "prosemirror-state": "^1.4.3"
   },
-  "main": "index.js", 
+  "main": "index.js",
   "files": [
     "imageMarkup.js",
     "pasteHandler.js"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mouradelh/tiptap-extension-imageplus.git"
+    "url": "git+https://github.com/mouradelh/tiptap-extension-imageplus.git"
   },
   "bugs": {
     "url": "https://github.com/mouradelh/tiptap-extension-imageplus/issues"
