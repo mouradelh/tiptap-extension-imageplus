@@ -1,6 +1,5 @@
 # `tiptap-extension-ImagePlus`
 
-![tiptap-extension-resize-image](https://github.com/bae-sh/tiptap-extension-resize-image/assets/37887690/e79f3d2a-c2df-4506-ac4a-fb71918569b4)
 
 This NPM Package contains 3 different extensions:
 
