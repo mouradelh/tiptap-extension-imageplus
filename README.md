@@ -18,8 +18,8 @@ $ npm install tiptap-extension-imageplus
 ## Usage
 
 ```javascript
-import PasteHandler from 'tiptap-extension-imageplus';
-import ImageMarkup from 'tiptap-extension-imageplus';
+import { CustomPasteHandler } from "tiptap-extension-imageplus";
+import { ImageMarkup } from "tiptap-extension-imageplus";
 import { EditorContent, useEditor } from '@tiptap/react';
 
 const editor = useEditor({
