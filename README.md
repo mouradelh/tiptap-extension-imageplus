@@ -31,4 +31,4 @@ const editor = useEditor({
 
 
 ## Credits
-This extension makes use of MarkerJS for the image annotation feature. [MarkerJS](https://markerjs.com/https://markerjs.com/) is a powerful library that enables users to add annotations to images directly within the browser.
+This extension makes use of MarkerJS for the image annotation feature. [MarkerJS](https://markerjs.com/) is a powerful library that enables users to add annotations to images directly within the browser.
