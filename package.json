@@ -13,7 +13,14 @@
     "image",
     "annotation",
     "markupJS",
-    "editor"
+    "editor",
+    "paste",
+    "resize",
+    "markerjs tiptap",
+    "paste image tiptap",
+    "resize tiptap",
+    "annotate tiptap",
+    "markup tiptap"
   ],
   "dependencies": {
     "@tiptap/core": "^2.4.0",
