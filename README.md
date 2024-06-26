@@ -24,6 +24,6 @@ import { EditorContent, useEditor } from '@tiptap/react';
 
 const editor = useEditor({
   extensions: [pasteHandler, imageMarkup],
-  content: `<img src="https://source.unsplash.com/8xznAGy4HcY/800x400" />`,
+  content: `<img src="https://cd2.boardgamesmaker.com/AttachFiles/WebsiteImages/Product_Show/FI_8807.jpg" />`,
 });
 ```
