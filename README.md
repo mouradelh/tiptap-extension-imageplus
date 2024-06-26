@@ -28,3 +28,7 @@ const editor = useEditor({
   content: `<img src="https://cd2.boardgamesmaker.com/AttachFiles/WebsiteImages/Product_Show/FI_8807.jpg" />`,
 });
 ```
+
+
+## Credits
+This extension makes use of MarkerJS for the image annotation feature. [MarkerJS](https://markerjs.com/https://markerjs.com/) is a powerful library that enables users to add annotations to images directly within the browser.
