@@ -1,7 +1,7 @@
 {
   "name": "tiptap-extension-imageplus",
-  "version": "1.0.5",
-  "description": "Enhanced image handling and annotation extension (MarkerJS2) for TipTap editor.",
+  "version": "1.0.6",
+  "description": "Pasting images (keyboard + mouse), Resize images and annotate using MarkerJS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
