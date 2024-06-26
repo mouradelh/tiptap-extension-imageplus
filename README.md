@@ -1,5 +1,6 @@
 # `tiptap-extension-ImagePlus`
 
+![ImagePlus](https://github.com/mouradelh/tiptap-extension-imageplus/blob/master/assets/image.jpg?raw=true)
 
 This NPM Package contains 3 different extensions:
 
